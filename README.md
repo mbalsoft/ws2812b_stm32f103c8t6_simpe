@@ -3,7 +3,7 @@
 STM32F103C8 use TIM3 for generate serial data for 8 diodes WS2812B
 
 
-<img src='WS2812B_schema.drawio.png' />
+<img src='WS2812B_schema.png' />
 
 This project was implemented using project:
 https://forbot.pl/blog/kurs-stm32l4-diody-rgb-ws2812b-liczniki-quiz-id49890
